@@ -1,6 +1,5 @@
-===========================
+
     PAIR MATCHING GAME
-===========================
 
 **Giới thiệu**  
 Pair Matching Game là một trò chơi ghép đôi các ô hình ảnh thú vị, phù hợp với mọi lứa tuổi. Với nhiều tính năng như combo thưởng điểm, Power-Up và giới hạn thời gian, game sẽ mang lại trải nghiệm chơi đầy hấp dẫn và thách thức.
