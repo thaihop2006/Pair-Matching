@@ -25,7 +25,8 @@ Pair Matching Game là một trò chơi ghép đôi các ô hình ảnh thú v�
 
 ---
 
-**Cách cài đặt và chạy game**  
+**Cách cài đặt và chạy game**
+Link game: https://drive.google.com/file/d/1c-1dSeeVgbFy0jNU42Tqghr-mninYoRm/view
 1. Không cần cài đặt thêm phần mềm hoặc thư viện.  
 2. Tải xuống file `PairMatching.rar`.  
 3. Giải nén file `PairMatching.rar`.
